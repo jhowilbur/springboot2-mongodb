@@ -11,14 +11,22 @@
 1. Perform queries with Spring Data and MongoRepository
 ##
 ## how the system would work if it were in the relational database model
+####
 ![1](https://user-images.githubusercontent.com/59379254/79361956-5a5bd100-7f1c-11ea-9888-15113301e38c.png)
+####
 ![2](https://user-images.githubusercontent.com/59379254/79361963-5c259480-7f1c-11ea-8749-3ef32715096c.png)
+####
 ![3](https://user-images.githubusercontent.com/59379254/79361973-5def5800-7f1c-11ea-96fa-59493364f6b5.png)
+####
 ##
 ## how the system works based on a non-relational database
+####
 ![1 1](https://user-images.githubusercontent.com/59379254/79362348-dc4bfa00-7f1c-11ea-8505-315d60bf3a63.png)
+####
 ![2 1](https://user-images.githubusercontent.com/59379254/79363467-4fa23b80-7f1e-11ea-989c-986587ca6e24.png)
+####
 ![3 1](https://user-images.githubusercontent.com/59379254/79363470-503ad200-7f1e-11ea-8bc2-d5e9dfcd7007.png)
+####
 
 # Hands-on
 - Install MongoDB - [MongoDB](https://www.mongodb.com/products/compass)
@@ -59,7 +67,9 @@ Check list:
 ```
 
 ## Connecting to MongoDB with repository and service - [in commits]
+####
 ![Screenshot_2](https://user-images.githubusercontent.com/59379254/79355665-56c44c00-7f14-11ea-96be-a1682c5a87ce.png)
+####
 #### References:
 https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
 https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-nosql.html
