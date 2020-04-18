@@ -68,7 +68,7 @@ Check list:
 
 ## Connecting to MongoDB with repository and service - [in commits]
 ####
-![Screenshot_2](https://user-images.githubusercontent.com/59379254/79355665-56c44c00-7f14-11ea-96be-a1682c5a87ce.png)
+![Screenshot_3](https://user-images.githubusercontent.com/59379254/79672614-1e3da000-81aa-11ea-9b05-bacbac95a067.png)
 ####
 #### References:
 https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
