@@ -1,4 +1,4 @@
-# workshop-springboot2-mongodb
+# springboot2-mongodb
 > Welcome to this brief tutorial, future questions please call me by git.
 
 ## Main goal:
